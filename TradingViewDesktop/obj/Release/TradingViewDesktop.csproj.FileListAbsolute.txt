@@ -1,0 +1,10 @@
+C:\Users\null\Desktop\TVS\TradingViewDesktop\bin\Release\TradingViewDesktop.exe.config
+C:\Users\null\Desktop\TVS\TradingViewDesktop\bin\Release\TradingViewDesktop.exe
+C:\Users\null\Desktop\TVS\TradingViewDesktop\bin\Release\TradingViewDesktop.pdb
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.Properties.Resources.resources
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.csproj.GenerateResource.cache
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.csproj.CoreCompileInputs.cache
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.exe
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.pdb
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.csprojAssemblyReference.cache
+C:\Users\null\Desktop\TVS\TradingViewDesktop\obj\Release\TradingViewDesktop.Form1.resources
